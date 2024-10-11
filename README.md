@@ -8,7 +8,7 @@
   </a>
 <div id="badges">
   <a href="https://www.kaggle.com/srikanthgopu7/">
-    <img src="https://img.shields.io/badge/KaggleIn-blue?style=for-the-badge&logo=Kagglen&logoColor=blue" alt="Kaggle Badge"/>
+    <img src="img src="/static/images/site-logo.svg" alt="Kaggle Badge"/>
   </a>
   </a>
   <a href="https://herdataproject.com/blog">
