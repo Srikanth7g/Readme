@@ -6,7 +6,10 @@
   <a href="https://www.linkedin.com/in/g-srikanth-b5137b169/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-
+<div id="badges">
+  <a href="https://www.kaggle.com/srikanthgopu7/">
+    <img src="https://img.shields.io/badge/KaggleIn-blue?style=for-the-badge&logo=Kagglen&logoColor=blue" alt="Kaggle Badge"/>
+  </a>
   </a>
   <a href="https://herdataproject.com/blog">
     <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
